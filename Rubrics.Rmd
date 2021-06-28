@@ -1,0 +1,78 @@
+---
+title: "Assessment Descriptions and Rubrics"
+author: "Anna Ziff"
+date: "Econ 890-R, Summer 2021"
+output: pdf_document
+urlcolor: blue
+---
+
+# Homeworks
+
+Homeworks are available on GitHub. The accompanying datasets are posted to Sakai. The homework should be completed in RNotebook, although the student may want to start by writing an R script first to check their code. Please turn your homework in via Git. 
+
+Each homework is graded on a scale of 10 points. 
+
+1. Effort
+- **7 points**: All questions are attempted.
+- 3 points: Half of the questions are attempted.
+- 1 point: Less than half of the questions are attempted.
+- 0 points: No submission.
+
+2. Style
+- **2 points**: The student wrote the assignment in RNotebook, curating the output.
+- 1 point: The student wrote the assignment in RNotebook but did not curate the output.
+- 0 points: The student did not write the assignment in RNotebook.
+
+
+3. Explanation
+- **1 points**: The student adequately explains their answers.
+- 0 points: The student provides no explanation of their code/answers.
+
+# Capstone Project
+
+There are two options for the capstone project. The student can complete an original research proposal or a replication of a published economics paper. The student turns in the capstone project by sharing their dedicated GitHub repository with the instructor.
+
+## Research Proposal
+
+The student should propose an original research question. The project must include a motivation for why the question is of scientific interest, a description of your data or simulation, and an explanation of the methods and results. Even though this is a research *proposal*, the student should try to access some data and present a portion of the project, an empirical exercise, etc. Basically, the student should use R!
+
+* Outline Due Tuesday July 6, 5:00 p.m. ET: The project proposal outline should identify the research question and a discussion of potential data sources. The student must also discuss how they will use R to address the question. 
+
+* Final Project Due Monday August 2, 5:00 p.m. ET: The final project will be a GitHub repository with the following elements:
+
+    1. The typed project writeup. This can be done in \LaTeX, RNotebook, or any word processor.
+    2. The complete code compiled and explained in RNotebook. This can be thought of as a "Replication Appendix" or "Data Appendix."
+    3. The R scripts used to complete the project.
+
+
+## Replication
+
+The student should select a published economics paper and download or simulate the data. The project should include a summary of the paper and the specific results to be replicated. The replication code must be original and not the published code by the original authors. 
+
+* Outline Due Tuesday July 6, 5:00 p.m. ET: The outline should identify at least one paper (the student may still be deciding between a few options) that the student is considering and discuss how they will use R to implement the replication. 
+* Final Project Due Monday August 2, 5:00 p.m. ET: The final project will be a GitHub repository with the following elements:
+
+    1. The typed project writeup. This can be done in \LaTeX, RNotebook, or any word processor.
+    2. The complete code compiled and explained in RNotebook. This can be thought of as a "Replication Appendix" or "Data Appendix."
+    3. The R scripts used to complete the project.
+
+## Rubric
+
+The capstone project is graded on a scale of 72 points along the following dimensions. 
+
+1. Code Explanation
+- **25 points**: The RNotebook document is clear and concise. One can read it and understand how the code for the project works.
+
+3. Code
+- **25 points**: The code is organized, efficient, and makes use of a broad range of functions and structures.
+
+4. Writeup
+- **10 points**: The writeup is clear and adequately describes the research question and analysis.
+
+5.  Outline
+- **7 points**: The outline is completed on time.
+
+6. Repository
+- **5 points**: The repository is organized and contains all the required elements.
+
+
