@@ -112,10 +112,6 @@ Chacon, Scott, and Ben Straub. *Pro Git: Everything You Need to Know About Git*.
 
 Lafaye de Micheaux, Pierre, Rémy Drouilhet, and Benoit Liquet. *The R Software: Fundamentals of Programming and Statistical Analysis*. Statistics and Computing. New York, NY: Springer, 2013. [Downlad Link](https://link-springer-com.proxy.lib.duke.edu/book/10.1007%2F978-1-4614-9020-3).
 
-Rahlf, Thomas. *Data Visualisation with R: 100 Examples.* Springer, 2017. [Download Link](https://link-springer-com.proxy.lib.duke.edu/content/pdf/10.1007%2F978-3-319-49751-8.pdf).
-
-Wickham, Hadley. *Advanced R.* Chapman & Hall/CRC, . [Online Book](https://adv-r.hadley.nz/index.html)
-
 Xie, Yihui, J. J. Allaire, and Garrett Grolemund. *R Markdown: The Definitive Guide.* Chapman & Hall/CRC, 2020 [Online Book](https://bookdown.org/yihui/rmarkdown/)
 
 Zamora Saiz, Alfonso, Carlos Quesada González, Lluís Hurtado Gil, and Diego Mondéjar Ruiz. *An Introduction to Data Analysis in R.* Springer, 2020. [Download Link](https://link-springer-com.proxy.lib.duke.edu/content/pdf/10.1007%2F978-3-030-48997-7.pdf)
