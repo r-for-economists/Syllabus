@@ -30,12 +30,12 @@ After completing this course, successful students will learn to
 * design and execute an independent research project proposal or replication exercise.
 
 ### Online Learning
-I tried to make it so that the majority of the learning occurs during class time. If you need to miss a session, recordings of the classes will be made available. You must turn in your work from the exercises in these recordings to receive participation credit. While this option is available, I strongly encourage you to attend class at the designated time to get the most out of the class. 
+I designed the materials so that the majority of the learning occurs during class time. If you need to miss a session, recordings of the classes will be made available. You must turn in your work from the exercises in these recordings to receive participation credit. While this option is available, I strongly encourage you to attend class at the designated time to get the most out of the class. Please email me if you are unable to attend a session.
 
-By now, you are all probably very accustomed to Zoom. If I experience any connectivity issues and the meeting closes, please stick around for at least a few minutes to see if I can reconnect. Feel free to have your cameras off at any point. It is obviously much easier for the class to run if everyone has their cameras on, but I understand that this is not always possible. I will monitor chats and hand raising, but also please interject whenever. I will always start at 5:01, so please try to log in by then. I commit to always offer a 5 minute break and end by 7:05.
+By now, you are all probably very accustomed to Zoom. If I experience any connectivity issues and the meeting closes, please stick around for at least 10 minutes to see if I can reconnect. Feel free to have your cameras off at any point. It is much easier for the class to run if everyone has their cameras on, but I understand that this is not always possible. I will monitor chats and hand raising, but also please interject whenever. I will always start at 5:01, so please try to log in by then. I commit to always offer a 5 minute break and end by 7:05.
 
 ### Academic Integrity
-While you can confer with your peers for programming assignments and the capstone project, everyone must turn in their own unique work. Assignments verified to have identical or very similar code will receive no credit. Going through the exercises yourself ensures you fully understand the material. There will plenty of opportunities for collaboration on in-class activities.
+While you can confer with your peers for programming assignments and the capstone project, everyone must turn in their own unique work. Assignments verified to have identical or very similar code will receive no credit. Going through the exercises yourself ensures you fully understand the material. 
 
 "Duke University is a community dedicated to scholarship, leadership, and service, and to the principles of honesty, fairness, respect, and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity. To uphold the [Duke Community Standard](https://studentaffairs.duke.edu/conduct/about-us/duke-community-standard)
 *	I will not lie cheat, or steal in my academic endeavors;
@@ -50,25 +50,21 @@ I am committed to ensuring that everyone can succeed in this class. Students wit
 ### Assessments
 
 #### In-Class Participation (15\% of grade)
-We will use class time to learn about the building blocks of R code, specific packages and commands, and workflow tools. There will be a focus on individual and group activities over traditional lecturing to keep the long class period engaging and educational. As a result, your participation is necessary for a productive classroom environment. All synchronous and asynchronous in-class work will be turned in and graded for completion.
+We will use class time to learn about the building blocks of R code, specific packages and commands, and workflow tools. There will be a focus on individual practice as well as traditional lecturing to keep the long class period engaging and educational. As a result, your participation is necessary for a productive classroom environment. All synchronous and asynchronous in-class work will be turned in and graded for completion.
 
 #### Homeworks (25\% of grade)
 There are three homeworks to be completed independently outside of class. They are due on Mondays before the start of class.
 
-Assignments must be compiled in RNotebook and submitted via Git. A rubric for programming assignments is available here.
+Assignments must be compiled in RNotebook and submitted via Git. A rubric for programming assignments is available (here)[].
 
 #### Capstone Project (60\% of grade) 
-This final project allows you to use R in a context of your interest. You can select an original research proposal or a replication for this project. A proposal detailing your project plan will be due halfway through the class. A rubric for the capstone project is available here. 
+This final project allows you to use R in a context of your interest. You can select an original research proposal or a replication for this project. A proposal detailing your project plan will be due halfway through the class. A description and rubric for the capstone project is available (here)[]. 
 
 ##### Option 1: Research Proposal
 You will propose an original research question. Your project must include a motivation for why your question is of scientific  interest, a description of your data or simulation, and an explanation of your methods and results.
-* Due Tuesday July 6, 5:00 p.m. ET: Your project proposal should identify your research question and a discussion of potential data sources. You must also discuss how you will use R to address your question. 
-* Due Monday August 2, 5:00 p.m. ET: Your final project must be typed and contain a data appendix with an in-depth description of your data and code.
 
 ##### Option 2: Replication
 You will select a published paper of interest to you and download or simulate the data. Your project will include a summary of the paper and the specific results you are replicating. The replication code should be original; You cannot turn in published code you downloaded. 
-* Due Tuesday July 6, 5:00 p.m. ET: Your project proposal should identify at least one paper (you may still be deciding between a few options) that you are considering and discuss how you will use R to implement the replication. 
-* Due Monday August 2, 5:00 p.m. ET: Your final project must be typed and contain a data appendix with an in-depth description of your data and code. 
 
 ---
 
@@ -89,7 +85,7 @@ You will select a published paper of interest to you and download or simulate th
 3. Advanced Topics
     - Geographic Data and Mapping
     - Parallel Computing
-    - (Time Permitting) Medley of Other Topics
+    - Medley of Other Advanced Topics (Big Data, Optimization, Text Analysis)
     
 ### Calendar
 | Date              | Class   | Due at 5:00 p.m. ET |
@@ -98,13 +94,13 @@ You will select a published paper of interest to you and download or simulate th
 | Tuesday, June 29  | Class 2 |                     |
 | Thursday, July 1  | Class 3 |                     |
 | Monday, July 5    | Class 4 | Homework 1          |
-| Tuesday, July 6   | Class 5 | Proposal            |
+| Tuesday, July 6   | Class 5 | Outline            |
 | Thursday, July 8  | Class 6 |                     |
 | Monday, July 12   | Class 7 | Homework 2          |
 | Tuesday, July 13  | Class 8 |                     |
 | Thursday, July 15 | Class 9 |                     |
 | Monday, July 19   |         | Homework 3          |
-| Monday, August 2  |         | Project             |
+| Monday, August 2  |         | Final Project             |
 
 
 
