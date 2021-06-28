@@ -55,10 +55,10 @@ We will use class time to learn about the building blocks of R code, specific pa
 #### Homeworks (25\% of grade)
 There are three homeworks to be completed independently outside of class. They are due on Mondays before the start of class.
 
-Assignments must be compiled in RNotebook and submitted via Git. A rubric for programming assignments is available (here)[https://github.com/r-for-economists/Syllabus/blob/main/Rubrics.pdf].
+Assignments must be compiled in RNotebook and submitted via Git. A rubric for programming assignments is available [here](https://github.com/r-for-economists/Syllabus/blob/main/Rubrics.pdf).
 
 #### Capstone Project (60\% of grade) 
-This final project allows you to use R in a context of your interest. You can select an original research proposal or a replication for this project. A proposal detailing your project plan will be due halfway through the class. A description and rubric for the capstone project is available (here)[https://github.com/r-for-economists/Syllabus/blob/main/Rubrics.pdf]. 
+This final project allows you to use R in a context of your interest. You can select an original research proposal or a replication for this project. A proposal detailing your project plan will be due halfway through the class. A description and rubric for the capstone project is available [here](https://github.com/r-for-economists/Syllabus/blob/main/Rubrics.pdf). 
 
 ##### Option 1: Research Proposal
 You will propose an original research question. Your project must include a motivation for why your question is of scientific  interest, a description of your data or simulation, and an explanation of your methods and results.
