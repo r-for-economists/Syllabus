@@ -8,7 +8,7 @@ urlcolor: blue
 
 # Homeworks
 
-Homeworks are available on GitHub. The accompanying datasets are posted to Sakai. The homework should be completed in RNotebook, although the student may want to start by writing an R script first to check their code. Please turn your homework in via Git. 
+Homeworks are available on GitHub. The accompanying datasets are posted to Sakai. The homework should be completed in RNotebook, although the student may want to start by writing an R script first to check their code. Homework should be turned in in via Git. 
 
 Each homework is graded on a scale of 10 points. 
 
@@ -34,7 +34,7 @@ There are two options for the capstone project. The student can complete an orig
 
 ## Research Proposal
 
-The student should propose an original research question. The project must include a motivation for why the question is of scientific interest, a description of your data or simulation, and an explanation of the methods and results. Even though this is a research *proposal*, the student should try to access some data and present a portion of the project, an empirical exercise, etc. Basically, the student should use R!
+The student should propose an original research question. The project must include a motivation for why the question is of scientific interest, a description of the data or simulation, and an explanation of the methods and results. Even though this is a research *proposal*, the student should try to access some data and present a portion of the project, an empirical exercise, etc. Basically, the student should use R!
 
 * Outline Due Tuesday July 6, 5:00 p.m. ET: The project proposal outline should identify the research question and a discussion of potential data sources. The student must also discuss how they will use R to address the question. 
 
@@ -63,16 +63,16 @@ The capstone project is graded on a scale of 72 points along the following dimen
 1. Code Explanation
 - **25 points**: The RNotebook document is clear and concise. One can read it and understand how the code for the project works.
 
-3. Code
+2. Code
 - **25 points**: The code is organized, efficient, and makes use of a broad range of functions and structures.
 
-4. Writeup
+3. Writeup
 - **10 points**: The writeup is clear and adequately describes the research question and analysis.
 
-5.  Outline
+4.  Outline
 - **7 points**: The outline is completed on time.
 
-6. Repository
+5. Repository
 - **5 points**: The repository is organized and contains all the required elements.
 
 
