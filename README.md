@@ -104,13 +104,17 @@ You will select a published paper of interest to you and download or simulate th
 
 
 
-### References
+### References 
+
+Bivand, Roger, Pebesma, Edzer J., and Gómez-Rubio, Virgilio. *Applied spatial data analysis with R.* Use R! New York, Springer, 2013. [Download Link](https://link-springer-com.proxy.lib.duke.edu/content/pdf/10.1007%2F978-1-4614-7618-4.pdf)
 
 Boehmke, Bradley C. *Data Wrangling with R.* Springer, 2016. [Download Link](https://link-springer-com.proxy.lib.duke.edu/content/pdf/10.1007%2F978-3-319-45599-0.pdf).
 
 Chacon, Scott, and Ben Straub. *Pro Git: Everything You Need to Know About Git*. 2nd ed. Version 2.1.277. Apress, 2020. [Download Link](https://git-scm.com/book/en/v2).
 
 Lafaye de Micheaux, Pierre, Rémy Drouilhet, and Benoit Liquet. *The R Software: Fundamentals of Programming and Statistical Analysis*. Statistics and Computing. New York, NY: Springer, 2013. [Downlad Link](https://link-springer-com.proxy.lib.duke.edu/book/10.1007%2F978-1-4614-9020-3).
+
+Wickham, Hadley, *ggplot2.* Use R! Cham, Springer International Publishing, 2016. [Download Link](https://link-springer-com.proxy.lib.duke.edu/book/10.1007%2F978-3-319-24277-4)
 
 Xie, Yihui, J. J. Allaire, and Garrett Grolemund. *R Markdown: The Definitive Guide.* Chapman & Hall/CRC, 2020 [Online Book](https://bookdown.org/yihui/rmarkdown/)
 
