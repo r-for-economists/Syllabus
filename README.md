@@ -99,7 +99,7 @@ You will select a published paper of interest to you and download or simulate th
 | Monday, July 12   | Class 7 | Homework 2          |
 | Tuesday, July 13  | Class 8 |                     |
 | Thursday, July 15 | Class 9 |                     |
-| Monday, July 19   |         | Homework 3          |
+| Wednesday, July 21   |         | Homework 3          |
 | Monday, August 2  |         | Final Project             |
 
 
